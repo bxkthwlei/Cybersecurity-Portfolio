@@ -1,4 +1,3 @@
-Root-Me Write-up: HTTP - Verb tampering
 Challenge: HTTP - Verb tampering
 
 Category: Web-Server
